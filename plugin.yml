@@ -1,0 +1,6 @@
+name: TotemOfFertility
+version: 1.3.0
+author: Nyrok
+api: [4.0.0]
+main: Nyrok\TotemOfFertility\Main
+src-namespace-prefix: Nyrok\TotemOfFertility

@@ -1,0 +1,10 @@
+nametag: §cTotem of Fertility # Nom de l'entité
+scoretag: §6x{fuel} Paladium # Scoretag ce qui est en dessous de l'entité {fuel} nombre de fuel
+geometry: totem.json # Nom du fichier du modèle
+identifier: geometry.totem # Identifier du modèle
+texture: totem.png # Nom du fichier de la texture
+radius: 5 # Rayon en blocs
+growth-time: 1 # Minutes
+fuel-item-id: 266 # ID de l'item de fuel
+block-id: 41 # ID du block
+max-health: 100 # Vie du totem
